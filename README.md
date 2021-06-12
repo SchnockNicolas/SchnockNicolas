@@ -1,9 +1,16 @@
 ### Hi there 👋
 
+![image][]
+
+
 ## What I do
 
+- **Studiying machine learning and big data**
 - 🔭 I’m currently working on marketing data
 - 💬 Ask me about R and media strategies
+
+## 📫 Where to find me 
+- Check my linkedin https://www.linkedin.com/in/schnock/ 
 
 <!--
 **SchnockNicolas/SchnockNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
