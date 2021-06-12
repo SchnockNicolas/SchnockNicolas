@@ -7,7 +7,7 @@
 
 - **Studiying machine learning and big data**
 - 🔭 I’m currently working on marketing data
-- 💬 Ask me about R and media strategies
+- 💬 Ask me about R, Shiny, digital marketing & advertising
 
 ## 📫 Where to find me 
 - Check my linkedin https://www.linkedin.com/in/schnock/ 
