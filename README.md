@@ -2,6 +2,8 @@
 
 ## What I do
 
+- 🔭 I’m currently working on marketing data
+- 💬 Ask me about R and media strategies
 
 <!--
 **SchnockNicolas/SchnockNicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
