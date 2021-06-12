@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image][https://github.com/SchnockNicolas/SchnockNicolas/blob/main/FondGithub.jpg?raw=true]
+![image][https://raw.githubusercontent.com/SchnockNicolas/SchnockNicolas/main/FondGithub.jpg]
 
 
 ## What I do
